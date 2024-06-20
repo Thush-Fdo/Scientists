@@ -1,8 +1,8 @@
 //
 //  Scientist.swift
-//  SpotTheScientist
+//  Scientists
 //
-//  Created by 101 on 2022/10/4.
+//  Created by Thush-Fdo on 17/05/2024
 //
 
 import Foundation
